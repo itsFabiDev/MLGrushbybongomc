@@ -1,0 +1,11 @@
+name: MLGRush
+version: 1.1
+author: Fabi
+main: de.Fabi.mlgrush.MLGRush
+commands:
+     setup:
+          description: Richte das Plugin ein.
+     mlgrush:
+          description: The main and test command of the plugin.
+     build:
+          description: Allows you to build.
